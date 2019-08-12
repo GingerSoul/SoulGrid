@@ -1,0 +1,291 @@
+.sg-1c-0g{
+	width:calc( 1 * (60vw / 12) + 0 * (30vw / 11))!important;
+}
+
+.sg-1c-1g{
+	width:calc( 1 * (60vw / 12) + 1 * (30vw / 11))!important;
+}
+
+.sg-2c-1g{
+	width:calc( 2 * (60vw / 12) + 1 * (30vw / 11))!important;
+}
+
+.sg-2c-2g{
+	width:calc( 2 * (60vw / 12) + 2 * (30vw / 11))!important;
+}
+
+.sg-3c-2g{
+	width:calc( 3 * (60vw / 12) + 2 * (30vw / 11))!important;
+}
+
+.sg-3c-3g{
+	width:calc( 3 * (60vw / 12) + 3 * (30vw / 11))!important;
+}
+
+.sg-4c-3g{
+	width:calc( 4 * (60vw / 12) + 3 * (30vw / 11))!important;
+}
+
+.sg-4c-4g{
+	width:calc( 4 * (60vw / 12) + 4 * (30vw / 11))!important;
+}
+
+.sg-5c-4g{
+	width:calc( 5 * (60vw / 12) + 4 * (30vw / 11))!important;
+}
+
+.sg-5c-5g{
+	width:calc( 5 * (60vw / 12) + 5 * (30vw / 11))!important;
+}
+
+.sg-6c-5g{
+	width:calc( 6 * (60vw / 12) + 5 * (30vw / 11))!important;
+}
+
+.sg-6c-6g{
+	width:calc( 6 * (60vw / 12) + 6 * (30vw / 11))!important;
+}
+
+.sg-7c-6g{
+	width:calc( 7 * (60vw / 12) + 6 * (30vw / 11))!important;
+}
+
+.sg-7c-7g{
+	width:calc( 7 * (60vw / 12) + 7 * (30vw / 11))!important;
+}
+
+.sg-8c-7g{
+	width:calc( 8 * (60vw / 12) + 7 * (30vw / 11))!important;
+}
+
+.sg-8c-8g{
+	width:calc( 8 * (60vw / 12) + 8 * (30vw / 11))!important;
+}
+
+.sg-9c-8g{
+	width:calc( 9 * (60vw / 12) + 8 * (30vw / 11))!important;
+}
+
+.sg-9c-9g{
+	width:calc( 9 * (60vw / 12) + 9 * (30vw / 11))!important;
+}
+
+.sg-10c-9g{
+	width:calc( 10 * (60vw / 12) + 9 * (30vw / 11))!important;
+}
+
+.sg-10c-10g{
+	width:calc( 10 * (60vw / 12) + 10 * (30vw / 11))!important;
+}
+
+.sg-11c-10g{
+	width:calc( 11 * (60vw / 12) + 10 * (30vw / 11))!important;
+}
+
+.sg-11c-11g{
+	width:calc( 11 * (60vw / 12) + 11 * (30vw / 11))!important;
+}
+
+.sg-12c-11g{
+	width:calc( 12 * (60vw / 12) + 11 * (30vw / 11))!important;
+}
+
+.sg-12c-12g{
+	width:calc( 12 * (60vw / 12) + 12 * (30vw / 11))!important;
+}
+
+@media (max-width:991px){
+    .sg-1c-0g_medium{
+        width:calc( 1 * (60vw / 12) + 0 * (30vw / 11))!important;
+    }
+
+    .sg-1c-1g_medium{
+        width:calc( 1 * (60vw / 12) + 1 * (30vw / 11))!important;
+    }
+
+    .sg-2c-1g_medium{
+        width:calc( 2 * (60vw / 12) + 1 * (30vw / 11))!important;
+    }
+
+    .sg-2c-2g_medium{
+        width:calc( 2 * (60vw / 12) + 2 * (30vw / 11))!important;
+    }
+
+    .sg-3c-2g_medium{
+        width:calc( 3 * (60vw / 12) + 2 * (30vw / 11))!important;
+    }
+
+    .sg-3c-3g_medium{
+        width:calc( 3 * (60vw / 12) + 3 * (30vw / 11))!important;
+    }
+
+    .sg-4c-3g_medium{
+        width:calc( 4 * (60vw / 12) + 3 * (30vw / 11))!important;
+    }
+
+    .sg-4c-4g_medium{
+        width:calc( 4 * (60vw / 12) + 4 * (30vw / 11))!important;
+    }
+
+    .sg-5c-4g_medium{
+        width:calc( 5 * (60vw / 12) + 4 * (30vw / 11))!important;
+    }
+
+    .sg-5c-5g_medium{
+        width:calc( 5 * (60vw / 12) + 5 * (30vw / 11))!important;
+    }
+
+    .sg-6c-5g_medium{
+        width:calc( 6 * (60vw / 12) + 5 * (30vw / 11))!important;
+    }
+
+    .sg-6c-6g_medium{
+        width:calc( 6 * (60vw / 12) + 6 * (30vw / 11))!important;
+    }
+
+    .sg-7c-6g_medium{
+        width:calc( 7 * (60vw / 12) + 6 * (30vw / 11))!important;
+    }
+
+    .sg-7c-7g_medium{
+        width:calc( 7 * (60vw / 12) + 7 * (30vw / 11))!important;
+    }
+
+    .sg-8c-7g_medium{
+        width:calc( 8 * (60vw / 12) + 7 * (30vw / 11))!important;
+    }
+
+    .sg-8c-8g_medium{
+        width:calc( 8 * (60vw / 12) + 8 * (30vw / 11))!important;
+    }
+
+    .sg-9c-8g_medium{
+        width:calc( 9 * (60vw / 12) + 8 * (30vw / 11))!important;
+    }
+
+    .sg-9c-9g_medium{
+        width:calc( 9 * (60vw / 12) + 9 * (30vw / 11))!important;
+    }
+
+    .sg-10c-9g_medium{
+        width:calc( 10 * (60vw / 12) + 9 * (30vw / 11))!important;
+    }
+
+    .sg-10c-10g_medium{
+        width:calc( 10 * (60vw / 12) + 10 * (30vw / 11))!important;
+    }
+
+    .sg-11c-10g_medium{
+        width:calc( 11 * (60vw / 12) + 10 * (30vw / 11))!important;
+    }
+
+    .sg-11c-11g_medium{
+        width:calc( 11 * (60vw / 12) + 11 * (30vw / 11))!important;
+    }
+
+    .sg-12c-11g_medium{
+        width:calc( 12 * (60vw / 12) + 11 * (30vw / 11))!important;
+    }
+
+    .sg-12c-12g_medium{
+        width:calc( 12 * (60vw / 12) + 12 * (30vw / 11))!important;
+    }
+}
+
+@media (max-width:767px){
+    .sg-1c-0g_responsive{
+        width:calc( 1 * (60vw / 12) + 0 * (30vw / 11))!important;
+    }
+
+    .sg-1c-1g_responsive{
+        width:calc( 1 * (60vw / 12) + 1 * (30vw / 11))!important;
+    }
+
+    .sg-2c-1g_responsive{
+        width:calc( 2 * (60vw / 12) + 1 * (30vw / 11))!important;
+    }
+
+    .sg-2c-2g_responsive{
+        width:calc( 2 * (60vw / 12) + 2 * (30vw / 11))!important;
+    }
+
+    .sg-3c-2g_responsive{
+        width:calc( 3 * (60vw / 12) + 2 * (30vw / 11))!important;
+    }
+
+    .sg-3c-3g_responsive{
+        width:calc( 3 * (60vw / 12) + 3 * (30vw / 11))!important;
+    }
+
+    .sg-4c-3g_responsive{
+        width:calc( 4 * (60vw / 12) + 3 * (30vw / 11))!important;
+    }
+
+    .sg-4c-4g_responsive{
+        width:calc( 4 * (60vw / 12) + 4 * (30vw / 11))!important;
+    }
+
+    .sg-5c-4g_responsive{
+        width:calc( 5 * (60vw / 12) + 4 * (30vw / 11))!important;
+    }
+
+    .sg-5c-5g_responsive{
+        width:calc( 5 * (60vw / 12) + 5 * (30vw / 11))!important;
+    }
+
+    .sg-6c-5g_responsive{
+        width:calc( 6 * (60vw / 12) + 5 * (30vw / 11))!important;
+    }
+
+    .sg-6c-6g_responsive{
+        width:calc( 6 * (60vw / 12) + 6 * (30vw / 11))!important;
+    }
+
+    .sg-7c-6g_responsive{
+        width:calc( 7 * (60vw / 12) + 6 * (30vw / 11))!important;
+    }
+
+    .sg-7c-7g_responsive{
+        width:calc( 7 * (60vw / 12) + 7 * (30vw / 11))!important;
+    }
+
+    .sg-8c-7g_responsive{
+        width:calc( 8 * (60vw / 12) + 7 * (30vw / 11))!important;
+    }
+
+    .sg-8c-8g_responsive{
+        width:calc( 8 * (60vw / 12) + 8 * (30vw / 11))!important;
+    }
+
+    .sg-9c-8g_responsive{
+        width:calc( 9 * (60vw / 12) + 8 * (30vw / 11))!important;
+    }
+
+    .sg-9c-9g_responsive{
+        width:calc( 9 * (60vw / 12) + 9 * (30vw / 11))!important;
+    }
+
+    .sg-10c-9g_responsive{
+        width:calc( 10 * (60vw / 12) + 9 * (30vw / 11))!important;
+    }
+
+    .sg-10c-10g_responsive{
+        width:calc( 10 * (60vw / 12) + 10 * (30vw / 11))!important;
+    }
+
+    .sg-11c-10g_responsive{
+        width:calc( 11 * (60vw / 12) + 10 * (30vw / 11))!important;
+    }
+
+    .sg-11c-11g_responsive{
+        width:calc( 11 * (60vw / 12) + 11 * (30vw / 11))!important;
+    }
+
+    .sg-12c-11g_responsive{
+        width:calc( 12 * (60vw / 12) + 11 * (30vw / 11))!important;
+    }
+
+    .sg-12c-12g_responsive{
+        width:calc( 12 * (60vw / 12) + 12 * (30vw / 11))!important;
+    }
+}
