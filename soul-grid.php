@@ -10,14 +10,14 @@
  * Domain Path: /assets/lang/
  */
 
-if(!class_exists('Soul_Grid') && class_exists('FLBuilder')){
+if(!class_exists('Soul_Grid')){
     class Soul_Grid{
-        
+
         public function __construct(){
             self::load_constants();
             self::load_classes();
         }
-        
+
         public static function load_constants(){
             define('SOUL_GRID_PLUGIN_VERSION', '1.0');
             define('SOUL_GRID_URL_PATH', trailingslashit(plugin_dir_url(__FILE__)));
@@ -25,11 +25,16 @@ if(!class_exists('Soul_Grid') && class_exists('FLBuilder')){
         }
 
         public static function load_classes(){
-            require(SOUL_GRID_PATH . 'classes/soul_grid_add_bb_settings.php');
+            // if beaver builder is active, setup our BB editor integrations
+            if(class_exists('FLBuilder')){
+                require(SOUL_GRID_PATH . 'classes/soul_grid_add_bb_settings.php');
+            }
         }
     }
-    
-    new Soul_Grid;
+
+    add_action('plugins_loaded', function(){
+        new Soul_Grid;
+    }, 999);
 }
 
 
