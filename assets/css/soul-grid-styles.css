@@ -1,3 +1,57 @@
+@media(min-width:768px){
+
+
+	md:sg-w-1c-0g{
+		width:calc( 1 * (60vw / 12) + 0 * (30vw / 11))!important;
+	}
+	md:sg-w-2c-1g{
+		width:calc( 2 * (60vw / 12) + 1 * (30vw / 11))!important;
+	}
+	md:sg-w-3c-2g{
+		width:calc( 3 * (60vw / 12) + 2 * (30vw / 11))!important;
+	}
+	md:sg-w-4c-3g{
+		width:calc( 4 * (60vw / 12) + 3 * (30vw / 11))!important;
+	}
+	md:sg-w-5c-4g{
+		width:calc( 5 * (60vw / 12) + 4 * (30vw / 11))!important;
+	}
+	md:sg-w-6c-5g{
+		width:calc( 6 * (60vw / 12) + 5 * (30vw / 11))!important;
+	}
+	md:sg-w-7c-6g{
+		width:calc( 7 * (60vw / 12) + 6 * (30vw / 11))!important;
+	}
+	md:sg-w-8c-7g{
+		width:calc( 8 * (60vw / 12) + 7 * (30vw / 11))!important;
+	}
+	md:sg-w-9c-8g{
+		width:calc( 9 * (60vw / 12) + 8 * (30vw / 11))!important;
+	}
+	md:sg-w-10c-9g{
+		width:calc( 10 * (60vw / 12) + 9 * (30vw / 11))!important;
+	}
+	md:sg-w-11c-10g{
+		width:calc( 11 * (60vw / 12) + 10 * (30vw / 11))!important;
+	}
+	md:sg-w-12c-11g{
+		width:calc( 12 * (60vw / 12) + 11 * (30vw / 11))!important;
+	}
+
+
+	
+}
+
+
+
+
+
+
+
+/* MATT STYLES */
+
+/*
+
 .sg-1c-0g{
 	width:calc( 1 * (60vw / 12) + 0 * (30vw / 11))!important;
 }
@@ -289,3 +343,4 @@
         width:calc( 12 * (60vw / 12) + 12 * (30vw / 11))!important;
     }
 }
+*/
